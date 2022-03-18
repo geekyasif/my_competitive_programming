@@ -1,0 +1,4 @@
+from array import *
+arr = array('i',[1,2,34,5,51])
+arr.append(100)
+print(arr)

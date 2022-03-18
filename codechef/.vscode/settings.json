@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "cmath": "cpp",
+        "xstring": "cpp",
+        "ostream": "cpp",
+        "vector": "cpp",
+        "charconv": "cpp",
+        "random": "cpp",
+        "algorithm": "cpp"
+    }
+}

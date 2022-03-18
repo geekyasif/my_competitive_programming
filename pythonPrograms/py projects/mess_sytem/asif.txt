@@ -1,0 +1,6 @@
+Student Id : 1
+ Name : asif 
+ Branch : bca 
+ University : integral 
+ Hostel : ms 
+ Balance Fees : 1500 

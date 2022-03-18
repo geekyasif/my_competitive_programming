@@ -1,0 +1,3 @@
+
+{"dateAndTime": "2020-12-26 21:01:18.687320", "ex1": "dubbel curl", "ex2": "barbel curl", "ex3": "chest press"}
+{"dateAndTime": "2020-12-26 21:15:42.065001", "ex1": "dumble curl", "ex2": "barbel curl", "ex3": "chest press"}

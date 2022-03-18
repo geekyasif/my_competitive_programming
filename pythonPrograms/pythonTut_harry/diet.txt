@@ -1,0 +1,5 @@
+{"roit": "5", "chawal": "100g", "daal": "20g", "sabji": "bhindi 30g"}
+{"roit": "2", "chawal": "50g", "daal": "10g", "sabji": "aaloo 10g"}
+{"roit": "2", "chawal": "2", "daal": "2", "sabji": "2"}
+{"dateAndTime": "2020-12-26 20:43:20.731443", "roit": "kssn", "chawal": "jd", "daal": "jbds'", "sabji": "nlsd"}
+{"dateAndTime": "2020-12-26 20:54:12.498444", "roit": "3", "chawal": "90g", "daal": "30g", "sabji": "20g allo aur bhindi"}

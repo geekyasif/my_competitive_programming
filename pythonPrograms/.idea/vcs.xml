@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/coronavirus_tkinter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mailing_client" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mile_converter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/notepad_tkinter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/py projects/coronavirus_tkinter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/py projects/mailing_client" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/py projects/mile_converter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/py projects/notepad_tkinter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/py projects/url_shortner" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/screen_sharing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/socket-programming/screen_sharing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/socket-programming/socket_chat_system" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/socket_chat_system" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tkinter_tut" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/url_shortner" vcs="Git" />
+  </component>
+</project>
